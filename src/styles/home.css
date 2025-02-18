@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    display: flex;
+    width: auto;
+    height: auto;
+    flex-direction: row;
+    background-color: slategrey;
+}
+
+.input{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+}
+
